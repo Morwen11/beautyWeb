@@ -1,0 +1,27 @@
+{
+  "name": "webbeauty",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "site web cosmetiques",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morwen11/beautyWeb.git"
+  },
+  "author": "melanie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morwen11/beautyWeb/issues"
+  },
+  "homepage": "https://github.com/Morwen11/beautyWeb#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
